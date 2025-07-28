@@ -1,8 +1,8 @@
 # FUTURE_DS_02
 Facebook/Instagram Ads Dashboard Built an interactive Power BI dashboard to analyze ad performance across platforms. Tracked key metrics like engagement, CTR, impressions, and content type performance using dynamic filters for data-driven insights.
 
-📊 Facebook/Instagram Ad Campaign Dashboard – Overview
-This Power BI dashboard provides a comprehensive analysis of Facebook and Instagram ad campaign performance, helping marketers understand how users engage with different types of content across both platforms.
+📊 Facebook/Instagram Ad Campaign Dashboard – Overview : 
+- This Power BI dashboard provides a comprehensive analysis of Facebook and Instagram ad campaign performance, helping marketers understand how users engage with different types of content across both platforms.
 
 🔍 Key Insights :
 - Total Engagement: 45K across both platforms.
